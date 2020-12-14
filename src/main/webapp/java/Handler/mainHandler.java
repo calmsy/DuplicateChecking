@@ -1,16 +1,36 @@
 package Handler;
 
 
-import org.springframework.web.servlet.ModelAndView;
-import org.springframework.web.servlet.mvc.Controller;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
 
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
 
-public class mainHandler implements Controller {
-    @Override
-    public ModelAndView handleRequest(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse) throws Exception {
+@Controller
+@RequestMapping("/DuplicateChecking")
+public class mainHandler{
 
-        return null;
+    @RequestMapping("/AllPerformance")
+    public String AllPerformance(){
+        String url = "/display/maindisplay/AllPerformance";
+
+        return url;
+    }
+    @RequestMapping("/HomeworkCorrection")
+    public String HomeworkCorrection(){
+        String url = "/display/maindisplay/HomeworkCorrection";
+
+        return url;
+    }
+    @RequestMapping("/HomeworkDuplicateCheck")
+    public String HomeworkDuplicateCheck(){
+        String url = "/display/maindisplay/HomeworkDuplicateCheck";
+
+        return url;
+    }
+    @RequestMapping("/SubmitAssignment")
+    public String SubmitAssignment(){
+        String url = "/display/maindisplay/SubmitAssignment";
+
+        return url;
     }
 }

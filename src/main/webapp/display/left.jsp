@@ -9,10 +9,9 @@
 </head>
 <body>
 <ul class="nav nav-pills nav-stacked">
-    <li><a href="" target="content">学生成绩</a></li>
     <li><a href="" target="content">班级成绩</a></li>
-    <li><a href="" target="content">修改成绩</a></li>
-    <li><a href="" target="content">查重</a></li>
+    <li><a href="" target="content">作业批改</a></li>
+    <li><a href="" target="content">作业查重</a></li>
     <li><a href="" target="content">提交作业</a></li>
 </ul>
 </body>
