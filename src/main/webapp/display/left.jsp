@@ -9,10 +9,10 @@
 </head>
 <body>
 <ul class="nav nav-pills nav-stacked">
-    <li><a href="" target="content">班级成绩</a></li>
-    <li><a href="" target="content">作业批改</a></li>
-    <li><a href="" target="content">作业查重</a></li>
-    <li><a href="" target="content">提交作业</a></li>
+    <li><a href="DuplicateChecking/AllPerformance" target="content">班级成绩</a></li>
+    <li><a href="DuplicateChecking/HomeworkCorrection" target="content">作业批改</a></li>
+    <li><a href="DuplicateChecking/HomeworkDuplicateCheck" target="content">作业查重</a></li>
+    <li><a href="DuplicateChecking/SubmitAssignment" target="content">提交作业</a></li>
 </ul>
 </body>
 </html>
