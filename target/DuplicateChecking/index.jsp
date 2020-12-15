@@ -9,7 +9,7 @@
 <frameset rows="10%,90%" noresize>
     <frame src="top.jsp">
     <frameset cols="10%,90%" noresize>
-        <frame src="left.jsp">
+        <frame src="display/left.jsp">
         <frame name="content" src="right.jsp">
     </frameset>
 </frameset>

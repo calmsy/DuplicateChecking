@@ -1,4 +1,4 @@
-package Handler;
+package com.Handler;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -28,6 +28,12 @@ public class mainHandler{
     @RequestMapping("/SubmitAssignment")
     public String SubmitAssignment(){
         String url = "/display/SubmitAssignment.jsp";
+
+        return url;
+    }
+    @RequestMapping("/upload")
+    public String upload(){
+        String url = "/display/success.jsp";
 
         return url;
     }

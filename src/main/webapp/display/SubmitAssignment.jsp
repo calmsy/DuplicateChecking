@@ -9,8 +9,14 @@
 <html>
 <head>
     <title>Title</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
 SubmitAssignment
+<br>
+<form action="${pageContext.request.contextPath}/DuplicateChecking/upload" method="post">
+    选择上传的文件：<input type="file" name="files"><br>
+    <input type="submit" value="上传">
+</form>
 </body>
 </html>
