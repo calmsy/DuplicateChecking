@@ -1,3 +1,4 @@
+
 <%--
   Created by IntelliJ IDEA.
   User: Administrator
@@ -5,33 +6,46 @@
   Time: 18:33
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+         pageEncoding="UTF-8"%>
+
 <html>
 <head>
     <title>Title</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
+<div style="margin:auto;width: 1000px;">
 <table class="table table-bordered table-hover">
     <caption>班级成绩</caption>
     <thead>
     <tr>
-        <th>班级</th>
+        <th>班级ID</th>
+        <th>班级名</th>
+        <th>平时成绩</th>
+        <th>平时成绩平均分</th>
+        <th>考试成绩</th>
+        <th>考试成绩平均分</th>
         <th>总成绩</th>
-        <th>平均成绩</th>
-        <th>人数</th>
+        <th>总成绩平均分</th>
     </tr>
     </thead>
     <tbody>
-    <c:forEach var="oneClass" items="${AllClass }">
+    <c:forEach var="ca" items="${candCS }">
         <tr>
-            <td>${oneClass.task_name }</td>
-            <td>${oneClass.name }</td>
-            <td>${oneClass.task_begin_time }</td>
-            <td>${oneClass.task_end_time }</td>
+            <td>${ca.classScore.class_id }</td>
+            <td><a href="${pageContext.request.contextPath}/DuplicateChecking/toViewStudents?value=${ca.aClass.class_name}">${ca.aClass.class_name}</a></td>
+            <td>${ca.classScore.usual_score }</td>
+            <td>${ca.classScore.avg_usual_score }</td>
+            <td>${ca.classScore.final_score }</td>
+            <td>${ca.classScore.avg_final_score }</td>
+            <td>${ca.classScore.total_score }</td>
+            <td>${ca.classScore.avg_total_score }</td>
         </tr>
     </c:forEach>
     </tbody>
 </table>
+</div>
 </body>
 </html>

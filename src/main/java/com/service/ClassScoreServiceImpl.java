@@ -1,7 +1,10 @@
 package com.service;
 
+import com.beans.Classes;
 import com.beans.ClassScore;
 import com.dao.IClassScoreDao;
+
+import java.util.List;
 
 public class ClassScoreServiceImpl implements IClassScoreService {
     private IClassScoreDao classScoreDao;
@@ -23,6 +26,19 @@ public class ClassScoreServiceImpl implements IClassScoreService {
         classScore.setAvg_usual_score(classScore.getUsual_score()/number);
         classScore.setAvg_final_score(classScore.getFinal_score()/number);
         classScore.setAvg_total_score(classScore.getTotal_score()/number);
+        return classScore;
+    }
+
+    @Override
+    public List<Classes> findAllClass() {
+        List<Classes> classes;
+        classes = classScoreDao.selectAllClass();
+        return classes;
+    }
+
+    @Override
+    public ClassScore findClassScorebyid(String class_id) {
+        ClassScore classScore = classScoreDao.selectClassScoreById(class_id);
         return classScore;
     }
 }

@@ -1,6 +1,8 @@
 package com.service;
 
+import com.beans.Course;
 import com.beans.Score;
+import com.beans.Student;
 import com.dao.IScoreDao;
 
 import java.util.List;
@@ -46,5 +48,38 @@ public class ScoreServiceImpl implements IScoreService {
     @Override
     public List<Score> findScore(String student_id) {
         return scoreDao.selectScore(student_id);
+    }
+
+    @Override
+    public List<Student> findStudentByClassName(String s) {
+
+        List<Student> students = scoreDao.selectStudentByClassName(s);
+
+        return students;
+    }
+
+    @Override
+    public List<Course> findAllCourse() {
+
+        List<Course> courses = scoreDao.selectAllCourse();
+        return courses;
+    }
+
+    @Override
+    public Student findStudentById(String id) {
+        Student student = scoreDao.selectStudentById(id);
+        return student;
+    }
+
+    @Override
+    public Score findScoreBySandC(String student_id, String course_id) {
+        Score score = scoreDao.selectScoreBySandC(student_id,course_id);
+        return score;
+    }
+
+    @Override
+    public Course findAllCourseById(String course_id) {
+        Course course = scoreDao.selectCourseById(course_id);
+        return course;
     }
 }

@@ -1,13 +1,13 @@
 package com.beans;
 
-public class Class {
+public class Classes {
     private String class_id;
     private String class_name;
 
-    public Class() {
+    public Classes() {
     }
 
-    public Class(String class_id, String class_name) {
+    public Classes(String class_id, String class_name) {
         this.class_id = class_id;
         this.class_name = class_name;
     }
