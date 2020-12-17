@@ -64,8 +64,7 @@ public class mainHandler{
     }
     @RequestMapping("/HomeworkDuplicateCheck")
     public String HomeworkDuplicateCheck(HttpServletRequest request){
-        //String savePath = request.getServletContext().getRealPath(path);
-        String savePath = "E:/aaaaaa";
+        String savePath = request.getServletContext().getRealPath(path);
         File folder = new File(savePath);
         File[] f = folder.listFiles();
         List<File> files = new ArrayList<File>();
@@ -88,8 +87,7 @@ public class mainHandler{
     @RequestMapping("/Upload")
     public void upload(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         //得到上传文件的保存目录，将上传的文件存放于WEB-INF目录下，不允许外界直接访问，保证上传文件的安全
-        //String savePath = request.getServletContext().getRealPath(path);
-        String savePath = "E:/aaaaaa";
+        String savePath = request.getServletContext().getRealPath(path);
         File file = new File(savePath);
         //判断上传文件的保存目录是否存在
         if (!file.exists() && !file.isDirectory()) {
@@ -163,8 +161,7 @@ public class mainHandler{
     }
     @RequestMapping("/toDuplicateCheck")
     public String toDuplicateCheck(HttpServletRequest request){
-        //String savePath = request.getServletContext().getRealPath(path);
-        String savePath = "E:/aaaaaa";
+        String savePath = request.getServletContext().getRealPath(path);
         String fileName = request.getParameter("fileName");
         String filePath = savePath + "/" + fileName;
 
@@ -183,7 +180,7 @@ public class mainHandler{
             }
         }
         Integer flag = 1;
-        if(myFiles == null){
+        if(myFiles.size() == 0){
             flag = 0;
         }
         request.getSession().setAttribute("flag",flag);

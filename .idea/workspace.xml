@@ -7,20 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76cc02a7-c02b-48da-b3a8-a054f68a517b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/beans/MyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/display/ShowSimilarity.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/upload/message.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/upload/upload.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DupCheckMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utils/DupCheckMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/Handler/mainHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Handler/mainHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/GetSimiarityUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utils/GetSimiarityUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/IOUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utils/IOUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/JieBaUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utils/JieBaUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/display/HomeworkDuplicateCheck.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/display/HomeworkDuplicateCheck.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/display/left.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/display/left.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/display/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/display/ShowSimilarity.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/display/ShowSimilarity.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/top.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/top.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -176,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608188857586</updated>
       <workItem from="1608188865076" duration="1858000" />
-      <workItem from="1608204227326" duration="8392000" />
+      <workItem from="1608204227326" duration="9882000" />
     </task>
     <task id="LOCAL-00001" summary="cyj1">
       <created>1608188958298</created>
@@ -185,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608188958298</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cyj2">
+      <created>1608212650903</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608212650903</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +203,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cyj1" />
-    <option name="LAST_COMMIT_MESSAGE" value="cyj1" />
+    <MESSAGE value="cyj2" />
+    <option name="LAST_COMMIT_MESSAGE" value="cyj2" />
   </component>
 </project>

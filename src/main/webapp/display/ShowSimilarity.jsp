@@ -14,7 +14,7 @@
 </head>
 <body>
 <c:if test="${flag==0}">
-    没有与该文件重复率超过30%的文件
+    <center style="font-size: 20px">没有与该文件重复率超过30%的文件</center>
 </c:if>
 <c:if test="${flag==1}">
     <div style="margin:auto;width: 800px;">
