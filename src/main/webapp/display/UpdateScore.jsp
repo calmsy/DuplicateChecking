@@ -12,12 +12,6 @@
 <head>
     <title>UpdateScore</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
-    <script type="text/javascript" src="${pageContext.request.contextPath}/js/jquery.js"></script>
-    <script type="text/javascript">
-        $(function () {
-            alert("welcome");
-        });
-    </script>
 </head>
 <body>
 <div style="margin:auto;width:1200px;">
