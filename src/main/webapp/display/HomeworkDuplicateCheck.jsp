@@ -14,6 +14,23 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-HomeworkDuplicateCheck
+<div style="margin:auto;width: 1000px;">
+    <table class="table table-bordered table-hover">
+        <thead>
+        <tr>
+            <th>文件</th>
+            <th>操作</th>
+        </tr>
+        </thead>
+        <tbody>
+        <c:forEach var="file" items="${files}">
+            <tr>
+                <td>${file.name}</td>
+                <td><a href="${pageContext.request.contextPath}/DuplicateChecking/toDuplicateCheck?fileName=${file.name}">查询</a></td>
+            </tr>
+        </c:forEach>
+        </tbody>
+    </table>
+</div>
 </body>
 </html>

@@ -11,7 +11,7 @@
 <ul class="nav nav-pills nav-stacked">
     <li><a href="${pageContext.request.contextPath}/DuplicateChecking/AllPerformance" target="content">查看成绩</a></li>
     <li><a href="${pageContext.request.contextPath}/DuplicateChecking/HomeworkDuplicateCheck" target="content">作业查重</a></li>
-    <li><a href="${pageContext.request.contextPath}/DuplicateChecking/SubmitAssignment" target="content">提交作业</a></li>
+    <li><a href="${pageContext.request.contextPath}/upload/upload.jsp" target="content">提交作业</a></li>
 </ul>
 </body>
 </html>

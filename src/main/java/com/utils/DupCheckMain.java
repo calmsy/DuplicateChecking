@@ -1,16 +1,14 @@
+package com.utils;
 
-import utils.GetSimiarityUtil;
-import utils.IOUtil;
+import org.junit.Test;
 
 import java.io.File;
 
 public class DupCheckMain {
 
 
-    public static void main(String[] args) {
-
-
-        System.out.println("hello World");
+    @Test
+    public void test1() {
         DupCheckMain d = new DupCheckMain();
         d.getRepetiveRate("src/main/orig.txt", "src/main/orig_0.8_add.txt");
 
@@ -35,8 +33,6 @@ public class DupCheckMain {
         GetSimiarityUtil getSimiarityUtil = new GetSimiarityUtil(oriStr, plagStr);
         System.out.println("相似度："+getSimiarityUtil.sim());
         result = getSimiarityUtil.sim();
-        IOUtil.StringToFile("DuplicateChecking/src/main/result.txt", originalPath + "\n" + plagiarizePath + "\n"
-                + "相似度 ：" + result);
         return result;
     }
 
