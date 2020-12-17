@@ -3,7 +3,6 @@ package com.Handler;
 import com.beans.*;
 import com.service.ClassScoreServiceImpl;
 import com.service.ScoreServiceImpl;
-import org.apache.ibatis.annotations.Update;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -140,5 +139,7 @@ public class mainHandler{
         request.getSession().setAttribute("courses",courses);
         return url;
     }
+
+
 
 }

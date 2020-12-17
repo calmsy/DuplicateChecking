@@ -7,36 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c44b66b-508f-483f-8b54-d7a5b4bc12f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DupCheckMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/beans/CandCS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/beans/SandSC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/GetSimiarityUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/IOUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/JieBaUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/display/UpdateScore.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/display/ViewStudent.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/display/ViewStudents.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/Handler/mainHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Handler/mainHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/beans/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beans/Classes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dao/IClassScoreDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dao/IClassScoreDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dao/IScoreDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dao/IScoreDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/ClassScoreServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/service/ClassScoreServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/IClassScoreService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/service/IClassScoreService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/IScoreService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/service/IScoreService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/ScoreServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/service/ScoreServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/display/AllPerformance.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/display/AllPerformance.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/display/HomeworkCorrection.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/display/HomeworkDuplicateCheck.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/display/HomeworkDuplicateCheck.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/display/SubmitAssignment.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/display/SubmitAssignment.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/display/left.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/display/left.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/display/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/display/success.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/DuplicateChecking/WEB-INF/lib/mysql-connector-java-5.1.47.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/display/UpdateScore.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/display/UpdateScore.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -54,49 +29,46 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Handler/mainHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="179">
+              <caret line="142" selection-start-line="142" selection-end-line="142" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#973#981#0" expanded="true" />
-                <element signature="e#2864#2872#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/utils/IOUtil.java">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/display/UpdateScore.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="119">
+              <caret line="14" column="98" selection-start-line="14" selection-start-column="98" selection-end-line="14" selection-end-column="98" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="98" selection-start-line="7" selection-start-column="98" selection-end-line="7" selection-end-column="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/jquery.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/utils/JieBaUtil.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13">
-              <caret line="2" column="47" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DupCheckMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/utils/GetSimiarityUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="733">
+              <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -129,7 +101,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/display/maindisplay/HomeworkCorrection.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/springmvc.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/welcome.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/left.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/java/Handler/mainHandler.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
@@ -141,7 +112,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/java/service/ScoreServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/Handler/ss.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/display/HomeworkCorrection.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/display/HomeworkDuplicateCheck.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/display/SubmitAssignment.jsp" />
@@ -160,9 +130,12 @@
         <option value="$PROJECT_DIR$/src/main/webapp/display/ViewStudent.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/display/AllPerformance.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/display/ViewStudents.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/display/UpdateScore.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Handler/mainHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/utils/IOUtil.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/DupCheckMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Handler/mainHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/display/UpdateScore.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
       </list>
     </option>
   </component>
@@ -181,7 +154,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="106" />
+    <option name="x" value="105" />
     <option name="width" value="1375" />
     <option name="height" value="1040" />
   </component>
@@ -191,8 +164,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,72 +202,6 @@
               <item name="DuplicateChecking" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="beans" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DuplicateChecking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DuplicateChecking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DuplicateChecking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DuplicateChecking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="Handler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DuplicateChecking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DuplicateChecking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DuplicateChecking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DuplicateChecking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DuplicateChecking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DuplicateChecking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DuplicateChecking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DuplicateChecking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DuplicateChecking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DuplicateChecking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DuplicateChecking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DuplicateChecking" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -313,19 +218,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/js" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -340,17 +247,17 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\program\JAVA\project\DuplicateChecking\src\main\java" />
-      <recent name="D:\program\JAVA\project\DuplicateChecking\src\main\webapp\js" />
-      <recent name="D:\program\JAVA\project\DuplicateChecking\src\main" />
-      <recent name="D:\program\JAVA\project\DuplicateChecking\src\main\resources" />
-      <recent name="D:\program\JAVA\project\DuplicateChecking\src\main\webapp" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\program\JAVA\project\DuplicateChecking\src\main" />
       <recent name="D:\program\JAVA\project\DuplicateChecking\src\main\webapp\test" />
       <recent name="D:\program\JAVA\project\DuplicateChecking\src\main\webapp\display" />
+      <recent name="D:\program\JAVA\project\DuplicateChecking\src\main\webapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\program\JAVA\project\DuplicateChecking\src\main\webapp\js" />
+      <recent name="D:\program\JAVA\project\DuplicateChecking\src\main\java" />
+      <recent name="D:\program\JAVA\project\DuplicateChecking\src\main" />
+      <recent name="D:\program\JAVA\project\DuplicateChecking\src\main\resources" />
       <recent name="D:\program\JAVA\project\DuplicateChecking\src\main\webapp" />
     </key>
   </component>
@@ -532,7 +439,8 @@
       <workItem from="1608043868503" duration="2285000" />
       <workItem from="1608046993031" duration="3787000" />
       <workItem from="1608087247335" duration="2269000" />
-      <workItem from="1608108243505" duration="30716000" />
+      <workItem from="1608108243505" duration="31377000" />
+      <workItem from="1608181108820" duration="3960000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1607874391310</created>
@@ -576,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608049959139</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="三个项目合并完成，主要页面实现的差不多了，剩下查重页面和作业提交的页面。晚会儿添加一个ajax请求用来验证密码，再把查重页面和提交页面制作一下基本结束。">
+      <created>1608145994757</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608145994757</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -612,13 +527,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61241000" />
+    <option name="totallyTimeSpent" value="65862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20241287" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20509383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -626,10 +541,9 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Duplicates" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.15439093" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.09773371" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -643,6 +557,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" weight="0.32824427" />
+      <window_info anchor="bottom" id="Duplicates" order="16" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -663,7 +578,8 @@
     <MESSAGE value="页面配置成功" />
     <MESSAGE value="null" />
     <MESSAGE value="mysql OK" />
-    <option name="LAST_COMMIT_MESSAGE" value="mysql OK" />
+    <MESSAGE value="三个项目合并完成，主要页面实现的差不多了，剩下查重页面和作业提交的页面。晚会儿添加一个ajax请求用来验证密码，再把查重页面和提交页面制作一下基本结束。" />
+    <option name="LAST_COMMIT_MESSAGE" value="三个项目合并完成，主要页面实现的差不多了，剩下查重页面和作业提交的页面。晚会儿添加一个ajax请求用来验证密码，再把查重页面和提交页面制作一下基本结束。" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/webapp/java/beans/Student.java" />
@@ -685,13 +601,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/welcome.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/java/beans/Class.java" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/applicationContext.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/mybatis.xml" />
@@ -715,13 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -738,27 +640,8 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/js/jquery-3.5.1.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="112" selection-start-line="112" selection-end-line="112" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Handler/ss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/display/HomeworkCorrection.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Handler/ss.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/display/HomeworkCorrection.jsp" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/beans/Classes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -937,39 +820,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/display/UpdateScore.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Handler/mainHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#973#981#0" expanded="true" />
-            <element signature="e#2864#2872#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DupCheckMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/utils/GetSimiarityUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -982,8 +836,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/utils/JieBaUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="2" column="47" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="47" />
+        <state relative-caret-position="247">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DupCheckMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/GetSimiarityUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Handler/mainHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/display/UpdateScore.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="98" selection-start-line="14" selection-start-column="98" selection-end-line="14" selection-end-column="98" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="98" selection-start-line="7" selection-start-column="98" selection-end-line="7" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="733">
+          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="28" />
         </state>
       </provider>
     </entry>
