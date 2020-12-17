@@ -29,7 +29,7 @@
     <center>负责人：丁世杰</center><br>
     <center>查重实现：丁世杰</center><br>
     <center>前端页面：程钰杰，陈诗毅</center><br>
-    <center>数据库操作：丁世杰，程钰杰，陈诗毅</center><br>
+    <center>数据库操作：程钰杰，陈诗毅</center><br>
     <center>测试：崔小玉，陈燕燕</center><br>
     <center>记录：崔小玉，陈燕燕</center><br>
     <center>实践报告：崔小玉，陈燕燕</center>

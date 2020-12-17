@@ -260,7 +260,4 @@ public class mainHandler{
         request.getSession().setAttribute("courses",courses);
         return url;
     }
-
-
-
 }

@@ -8,6 +8,12 @@
   <component name="ChangeListManager">
     <list default="true" id="76cc02a7-c02b-48da-b3a8-a054f68a517b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Handler/mainHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Handler/mainHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dao/IClassScoreDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dao/IClassScoreDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dao/IScoreDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dao/IScoreDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/ClassScoreServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/service/ClassScoreServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/IClassScoreService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/service/IClassScoreService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/right.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/right.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +169,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608188857586</updated>
       <workItem from="1608188865076" duration="1858000" />
-      <workItem from="1608204227326" duration="10786000" />
+      <workItem from="1608204227326" duration="11877000" />
     </task>
     <task id="LOCAL-00001" summary="cyj1">
       <created>1608188958298</created>
@@ -186,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608214357284</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="cyj_end2">
+      <created>1608215099804</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608215099804</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +222,7 @@
     <MESSAGE value="cyj1" />
     <MESSAGE value="cyj2" />
     <MESSAGE value="cyj_end" />
-    <option name="LAST_COMMIT_MESSAGE" value="cyj_end" />
+    <MESSAGE value="cyj_end2" />
+    <option name="LAST_COMMIT_MESSAGE" value="cyj_end2" />
   </component>
 </project>

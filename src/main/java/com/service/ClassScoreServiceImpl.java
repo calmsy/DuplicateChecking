@@ -35,10 +35,4 @@ public class ClassScoreServiceImpl implements IClassScoreService {
         classes = classScoreDao.selectAllClass();
         return classes;
     }
-
-    @Override
-    public ClassScore findClassScorebyid(String class_id) {
-        ClassScore classScore = classScoreDao.selectClassScoreById(class_id);
-        return classScore;
-    }
 }
