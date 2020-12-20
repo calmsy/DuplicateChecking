@@ -13,4 +13,7 @@
         <frame name="content" src="right.jsp">
     </frameset>
 </frameset>
+<body>
+
+</body>
 </html>

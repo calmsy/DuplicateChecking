@@ -25,4 +25,5 @@ public interface IScoreService {
     Score findScoreBySandC(String student_id, String course_id);
 
     Course findAllCourseById(String course_id);
+
 }

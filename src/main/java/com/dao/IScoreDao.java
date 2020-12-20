@@ -35,4 +35,5 @@ public interface IScoreDao {
 
     @Select("select * from course where course_id = #{course_id}")
     Course selectCourseById(String course_id);
+
 }

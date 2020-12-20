@@ -45,7 +45,8 @@
                     <td>null</td>
                 </c:if>
             </c:forEach>
-            <td><a href="${pageContext.request.contextPath}/DuplicateChecking/toViewStudent?id=${sa.student.student_id}">修改</a></td>
+            <td><a href="${pageContext.request.contextPath}/DuplicateChecking/toViewStudent?id=${sa.student.student_id}">修改</a>
+          </td>
         </tr>
     </c:forEach>
     </tbody>
