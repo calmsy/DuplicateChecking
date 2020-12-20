@@ -9,6 +9,4 @@ public interface IClassScoreService {
     ClassScore findClassScore(String class_id);
 
     List<Classes> findAllClass();
-
-    ClassScore findClassScorebyid(String class_id);
 }
